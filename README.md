@@ -2,6 +2,6 @@
 
 
 <p align="center">
-<img margin-left:50% src="https://i.imgur.com/Km05d1S.png" height="100" alt="" />
+<img margin-left:50% src="https://i.imgur.com/Km05d1S.png" height="1000" alt="" />
 </p>
 
